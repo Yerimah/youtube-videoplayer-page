@@ -1,0 +1,21 @@
+.navbar {
+    color: aliceblue;
+    margin: 0px 10px 0px 10px;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.col {
+    flex-basis: 50px;
+    min-width: 250px;
+}
+
+.video {
+    width: 83px;
+    margin: auto;
+    border-radius: 6px;   
+}
