@@ -27,3 +27,7 @@ body {
 .description {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+p {
+    align-content: center;
+}
