@@ -1,24 +1,37 @@
 .navbar {
     color: aliceblue;
-    margin: 0px 10px 0px 10px;
 }
 
-/*.row {
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
     display: flex;
-    align-items: center;
+    width: 0;
+    height: 0;
+    margin-left: 250px;
+    
 }
 
-.col {
-    flex-basis: 50px;
-    min-width: 250px;
+.row {
+    display: flex;
+} 
+
+.column {
+    margin-left: 50px;
 }
 
-.video {
+
+/*.video {
     width: 83px;
     margin: auto;
     border-radius: 6px;   
+    position: relative;
 }
-
+/*
 .column {
     display: inline-block;
     align-items: flex-end;
@@ -37,22 +50,28 @@
     
 } */
 
-.column {
-    display: flex;
-    align-content: center;
-    flex-flow: column;
+
+
+/*.col {
     flex-basis: 50px;
-    width: 30%;
+    min-width: 250px;
 }
 
 .sidebar-thumbnail-row {
     align-content: center;
     display: flex;
     background-color: aqua;
-    margin: 20px 0px;
+    margin: 10px auto;
+    width: 80px;
 }
 
 .sidebar-thumbnail {
     position: relative;
     
+}
+
+p {
+    margin-left: 10px;
+    width: 100px;
+
 }
