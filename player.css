@@ -24,54 +24,6 @@ body {
     margin-left: 50px;
 }
 
-
-/*.video {
-    width: 83px;
-    margin: auto;
-    border-radius: 6px;   
-    position: relative;
-}
-/*
-.column {
-    display: inline-block;
-    align-items: flex-end;
-}
-
- .sidebar-thumbnail-row {
-    display: flex;
-    margin: 20px 0px;
-    align-items: flex-end;
-    overflow-y: visible;
-    border-radius: 6px;
-    width: 85%;
-    }
-
-.sidebar-thumbnail {
-    
-} */
-
-
-
-/*.col {
-    flex-basis: 50px;
-    min-width: 250px;
-}
-
-.sidebar-thumbnail-row {
-    align-content: center;
-    display: flex;
-    background-color: aqua;
-    margin: 10px auto;
-    width: 80px;
-}
-
-.sidebar-thumbnail {
-    position: relative;
-    
-}
-
-p {
-    margin-left: 10px;
-    width: 100px;
-
+.description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
